@@ -1,0 +1,36 @@
+.BkC{
+background-color: whitesmoke;
+
+}
+
+
+.AnmDescript {
+    flex: auto;
+    background-color:lightgray;
+    border: solid 0.5px;
+}
+
+
+.YoutubeLink {
+    flex: auto;
+    background-color: darkgray;
+    border: solid 0.5px;
+    padding-top: 5px;
+}
+
+.Web-D_descript {
+    flex: auto;
+    background-color: lightgray;
+    border: solid 0.5px;
+}
+
+.GithubLink {
+    flex: auto;
+    background-color: darkgray;
+    border: solid 0.5px;
+    padding-top: 5px;
+}
+
+.hidden {
+    color: transparent;
+}
